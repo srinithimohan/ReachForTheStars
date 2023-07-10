@@ -1,9 +1,5 @@
-# p5.js
+# Reach For The Stars!
 
-This is the Template Repl for p5.js.
+A single player pong game created using Replit, HTML, CSS, libraries like p5.js and p5play to make the game interactive, and the graphics were created by me using Pixilart!
 
-p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
-
-[Check out the official docs here](https://p5js.org/reference/).
-
-
+Compatible with PCs and mobile devices (use the mouse/touch screen to direct the bar as desired). Give it a shot and see if you, truly, can reach for the stars.
